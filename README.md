@@ -38,3 +38,7 @@ Then, I decided to look into a specific station, the one that has the highest nu
 Here's a histogram with bins=12:
 
 ![temp_observation](Images/Temp.Observation.png)
+
+Further, I wanted to see how average trip temperature in a bar chart, which looks like as the following:
+
+![trip_temp](Images/trip_temp.png)
