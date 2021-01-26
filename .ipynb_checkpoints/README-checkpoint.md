@@ -19,6 +19,7 @@ To analyze the precipation data, I took the following steps:
 5. Plot the results using the DataFrame plot method
 
 This how the precipitation chart looks like:
+
 ![Precipitation](Images/Precipitation.png)
 
 ## Step 3- Station Analysis
@@ -28,7 +29,8 @@ To analyze the stations in the data, I took the following steps:
 2. Design a query to find the most active stations.
 3. List the stations and observation counts in descending order to answer questions like "Which station has the highest number of observations?"
 
-
+Here's a list of active stations:
+![active_stations](Images/active_stations.png)
 
 
 Design a query to retrieve the last 12 months of temperature observation data (TOBS).
