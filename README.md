@@ -18,17 +18,18 @@ To analyze the precipation data, I took the following steps:
 4. Sort the DataFrame values by date.
 5. Plot the results using the DataFrame plot method
 
+This how the precipitation chart looks like:
+![Precipitation](Images/Precipitation.png)
 
-Step 2- Station Analysis
-Design a query to calculate the total number of stations.
+## Step 3- Station Analysis
+To analyze the stations in the data, I took the following steps:
 
-Design a query to find the most active stations.
+1. Design a query to calculate the total number of stations.
+2. Design a query to find the most active stations.
+3. List the stations and observation counts in descending order to answer questions like "Which station has the highest number of observations?"
 
-List the stations and observation counts in descending order.
 
-Which station has the highest number of observations?
 
-Hint: You will need to use a function such as func.min, func.max, func.avg, and func.count in your queries.
 
 Design a query to retrieve the last 12 months of temperature observation data (TOBS).
 
