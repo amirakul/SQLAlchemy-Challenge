@@ -46,3 +46,5 @@ Further, I wanted to see how average trip temperature in a bar chart, which look
 Lastly, it was interesting to see the temperature behavior during the trip duration in area chart. This is how it looks like:
 
 ![temp](Images/Temp.During_Trip.png)
+
+from this chart, one can tell that minimum temperature during the trip duration will be. in low 60's, while the highest temperature is in 80's. 
