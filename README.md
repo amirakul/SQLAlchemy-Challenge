@@ -30,11 +30,11 @@ To analyze the stations in the data, I took the following steps:
 3. List the stations and observation counts in descending order to answer questions like "Which station has the highest number of observations?"
 
 Here's a list of active stations:
+
 ![active_stations](Images/active_stations.png)
 
+Then, I decided to look into a specific station, the one that has the highest number of temperature observations so that I can visualize the findings.
 
-Design a query to retrieve the last 12 months of temperature observation data (TOBS).
+Here's a histogram with bins=12:
 
-Filter by the station with the highest number of observations.
-
-Plot the results as a histogram with bins=12.
+![temp_observation](Images/Temp.Observation.png)
