@@ -47,4 +47,4 @@ Lastly, it was interesting to see the temperature behavior during the trip durat
 
 ![temp](Images/Temp.During_Trip.png)
 
-from this chart, one can tell that minimum temperature during the trip duration will be. in low 60's, while the highest temperature is in 80's. 
+from this chart, one can tell that minimum temperature during the trip duration will be. in low 60's, while the highest temperature is in 80's. The good news is that average daily temperature in average will be around 70's, which is an ideal temprature to have a nice vacation.
