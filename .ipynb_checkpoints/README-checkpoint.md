@@ -39,6 +39,8 @@ Here's a histogram with bins=12:
 
 ![temp_observation](Images/Temp.Observation.png)
 
+This histogram shows that for majority of the trip duration, temperature will be in 75 degrees. 
+
 Further, I wanted to see how average trip temperature in a bar chart, which looks like as the following:
 
 ![trip_temp](Images/trip_temp.png)
