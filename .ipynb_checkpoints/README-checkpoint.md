@@ -8,16 +8,16 @@ Then, I used SQLAlchemy create_engine to connect to the sqlite database.
 Next, I used SQLAlchemy automap_base() to reflect your tables into classes and saved a reference to those classes called Station and Measurement.
 
 
-Precipitation Analysis
-Design a query to retrieve the last 12 months of precipitation data.
+## Step 2-Precipitation Analysis
 
-Select only the date and prcp values.
+To analyze the precipation data, I took the following steps:
 
-Load the query results into a Pandas DataFrame and set the index to the date column.
+1. Design a query to retrieve the last 12 months of precipitation data.
+2. Select only the date and precipitation values.
+3. Load the query results into a Pandas DataFrame and set the index to the date column.
+4. Sort the DataFrame values by date.
+5. Plot the results using the DataFrame plot method
 
-Sort the DataFrame values by date.
-
-Plot the results using the DataFrame plot method
 
 Step 2- Station Analysis
 Design a query to calculate the total number of stations.
