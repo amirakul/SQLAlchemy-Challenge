@@ -42,3 +42,7 @@ Here's a histogram with bins=12:
 Further, I wanted to see how average trip temperature in a bar chart, which looks like as the following:
 
 ![trip_temp](Images/trip_temp.png)
+
+Lastly, it was interesting to see the temperature behavior during the trip duration in area chart. This is how it looks like:
+
+![temp](Images/Temp.During_Trip.png)
